@@ -139,21 +139,6 @@
         "label": "App.net"
     },
     {
-        "name": "adobe",
-        "class": "fab fa-adobe",
-        "style": "brands",
-        "search": [
-            "acrobat",
-            "app",
-            "design",
-            "illustrator",
-            "indesign",
-            "photoshop"
-        ],
-        "unicode": "f778",
-        "label": "Adobe"
-    },
-    {
         "name": "adversal",
         "class": "fab fa-adversal",
         "style": "brands",
@@ -1095,6 +1080,36 @@
         "label": "Bacon"
     },
     {
+        "name": "bacteria",
+        "class": "fas fa-bacteria",
+        "style": "solid",
+        "search": [
+            "antibiotic",
+            "antibody",
+            "covid-19",
+            "health",
+            "organism",
+            "sick"
+        ],
+        "unicode": "e059",
+        "label": "Bacteria"
+    },
+    {
+        "name": "bacterium",
+        "class": "fas fa-bacterium",
+        "style": "solid",
+        "search": [
+            "antibiotic",
+            "antibody",
+            "covid-19",
+            "health",
+            "organism",
+            "sick"
+        ],
+        "unicode": "e05a",
+        "label": "Bacterium"
+    },
+    {
         "name": "bahai",
         "class": "fas fa-bahai",
         "style": "solid",
@@ -1975,7 +1990,7 @@
             "sneeze",
             "snot"
         ],
-        "unicode": "f95b",
+        "unicode": "e05b",
         "label": "Tissue Box"
     },
     {
@@ -4019,6 +4034,14 @@
         "label": "Alternate Cloud Upload"
     },
     {
+        "name": "cloudflare",
+        "class": "fab fa-cloudflare",
+        "style": "brands",
+        "search": [],
+        "unicode": "e07d",
+        "label": "Cloudflare"
+    },
+    {
         "name": "cloudscale",
         "class": "fab fa-cloudscale",
         "style": "brands",
@@ -5058,7 +5081,7 @@
         "class": "fab fa-dailymotion",
         "style": "brands",
         "search": [],
-        "unicode": "f952",
+        "unicode": "e052",
         "label": "dailymotion"
     },
     {
@@ -5094,6 +5117,14 @@
         ],
         "unicode": "f2a4",
         "label": "Deaf"
+    },
+    {
+        "name": "deezer",
+        "class": "fab fa-deezer",
+        "style": "brands",
+        "search": [],
+        "unicode": "e077",
+        "label": "Deezer"
     },
     {
         "name": "delicious",
@@ -5867,6 +5898,14 @@
         "label": "Edge Browser"
     },
     {
+        "name": "edge-legacy",
+        "class": "fab fa-edge-legacy",
+        "style": "brands",
+        "search": [],
+        "unicode": "e078",
+        "label": "Edge Legacy Browser"
+    },
+    {
         "name": "edit",
         "class": "fas fa-edit",
         "style": "solid",
@@ -6262,9 +6301,9 @@
         "class": "fas fa-expand",
         "style": "solid",
         "search": [
-            "arrow",
             "bigger",
             "enlarge",
+            "fullscreen",
             "resize"
         ],
         "unicode": "f065",
@@ -6275,9 +6314,10 @@
         "class": "fas fa-expand-alt",
         "style": "solid",
         "search": [
-            "arrow",
+            "arrows",
             "bigger",
             "enlarge",
+            "fullscreen",
             "resize"
         ],
         "unicode": "f424",
@@ -6288,9 +6328,9 @@
         "class": "fas fa-expand-arrows-alt",
         "style": "solid",
         "search": [
-            "arrows-alt",
             "bigger",
             "enlarge",
+            "fullscreen",
             "move",
             "resize"
         ],
@@ -6523,7 +6563,7 @@
             "sink",
             "water"
         ],
-        "unicode": "f905",
+        "unicode": "e005",
         "label": "Faucet"
     },
     {
@@ -7245,7 +7285,7 @@
         "search": [
             "browser"
         ],
-        "unicode": "f907",
+        "unicode": "e007",
         "label": "Firefox Browser"
     },
     {
@@ -8344,6 +8384,14 @@
         "label": "Google Drive"
     },
     {
+        "name": "google-pay",
+        "class": "fab fa-google-pay",
+        "style": "brands",
+        "search": [],
+        "unicode": "e079",
+        "label": "Google Pay"
+    },
+    {
         "name": "google-play",
         "class": "fab fa-google-play",
         "style": "brands",
@@ -8894,6 +8942,14 @@
         "label": "Grunt"
     },
     {
+        "name": "guilded",
+        "class": "fab fa-guilded",
+        "style": "brands",
+        "search": [],
+        "unicode": "e07e",
+        "label": "Guilded"
+    },
+    {
         "name": "guitar",
         "class": "fas fa-guitar",
         "style": "solid",
@@ -9039,7 +9095,7 @@
             "donate",
             "help"
         ],
-        "unicode": "f95c",
+        "unicode": "e05c",
         "label": "Hand Holding Medical Cross"
     },
     {
@@ -9348,7 +9404,7 @@
             "soap",
             "wash"
         ],
-        "unicode": "f95d",
+        "unicode": "e05d",
         "label": "Hand Sparkles"
     },
     {
@@ -9415,7 +9471,7 @@
             "soap",
             "wash"
         ],
-        "unicode": "f95e",
+        "unicode": "e05e",
         "label": "Hands Wash"
     },
     {
@@ -9453,7 +9509,7 @@
             "covid-19",
             "social distance"
         ],
-        "unicode": "f95f",
+        "unicode": "e05f",
         "label": "Handshake Alternate Slash"
     },
     {
@@ -9465,7 +9521,7 @@
             "covid-19",
             "social distance"
         ],
-        "unicode": "f960",
+        "unicode": "e060",
         "label": "Handshake Slash"
     },
     {
@@ -9614,7 +9670,7 @@
             "respiratory",
             "sick"
         ],
-        "unicode": "f961",
+        "unicode": "e061",
         "label": "Head Side Cough"
     },
     {
@@ -9629,7 +9685,7 @@
             "respiratory",
             "sick"
         ],
-        "unicode": "f962",
+        "unicode": "e062",
         "label": "Head Side-cough-slash"
     },
     {
@@ -9643,7 +9699,7 @@
             "respirator",
             "virus"
         ],
-        "unicode": "f963",
+        "unicode": "e063",
         "label": "Head Side Mask"
     },
     {
@@ -9656,7 +9712,7 @@
             "flu",
             "sick"
         ],
-        "unicode": "f964",
+        "unicode": "e064",
         "label": "Head Side Virus"
     },
     {
@@ -9868,6 +9924,14 @@
         ],
         "unicode": "f1da",
         "label": "History"
+    },
+    {
+        "name": "hive",
+        "class": "fab fa-hive",
+        "style": "brands",
+        "search": [],
+        "unicode": "e07f",
+        "label": "Hive Blockchain Network"
     },
     {
         "name": "hockey-puck",
@@ -10175,7 +10239,7 @@
             "isolation",
             "quarantine"
         ],
-        "unicode": "f965",
+        "unicode": "e065",
         "label": "House User"
     },
     {
@@ -10354,7 +10418,7 @@
         "class": "fab fa-ideal",
         "style": "brands",
         "search": [],
-        "unicode": "f913",
+        "unicode": "e013",
         "label": "iDeal"
     },
     {
@@ -10516,6 +10580,14 @@
         "label": "Info Circle"
     },
     {
+        "name": "innosoft",
+        "class": "fab fa-innosoft",
+        "style": "brands",
+        "search": [],
+        "unicode": "e080",
+        "label": "Innosoft"
+    },
+    {
         "name": "instagram",
         "class": "fab fa-instagram",
         "style": "brands",
@@ -10528,8 +10600,16 @@
         "class": "fab fa-instagram-square",
         "style": "brands",
         "search": [],
-        "unicode": "f955",
+        "unicode": "e055",
         "label": "Instagram Square"
+    },
+    {
+        "name": "instalod",
+        "class": "fab fa-instalod",
+        "style": "brands",
+        "search": [],
+        "unicode": "e081",
+        "label": "InstaLOD"
     },
     {
         "name": "intercom",
@@ -11029,7 +11109,7 @@
             "remote",
             "work from home"
         ],
-        "unicode": "f966",
+        "unicode": "e066",
         "label": "Laptop House"
     },
     {
@@ -11649,7 +11729,7 @@
             "respiratory",
             "sick"
         ],
-        "unicode": "f967",
+        "unicode": "e067",
         "label": "Lungs Virus"
     },
     {
@@ -12247,7 +12327,7 @@
         "class": "fab fa-microblog",
         "style": "brands",
         "search": [],
-        "unicode": "f91a",
+        "unicode": "e01a",
         "label": "Micro.blog"
     },
     {
@@ -12452,7 +12532,7 @@
         "class": "fab fa-mixer",
         "style": "brands",
         "search": [],
-        "unicode": "f956",
+        "unicode": "e056",
         "label": "Mixer"
     },
     {
@@ -12987,6 +13067,14 @@
         ],
         "unicode": "f248",
         "label": "Object Ungroup"
+    },
+    {
+        "name": "octopus-deploy",
+        "class": "fab fa-octopus-deploy",
+        "style": "brands",
+        "search": [],
+        "unicode": "e082",
+        "label": "Octopus Deploy"
     },
     {
         "name": "odnoklassniki",
@@ -13549,7 +13637,7 @@
             "spread",
             "users"
         ],
-        "unicode": "f968",
+        "unicode": "e068",
         "label": "People Arrows"
     },
     {
@@ -13585,6 +13673,14 @@
         ],
         "unicode": "f816",
         "label": "Hot Pepper"
+    },
+    {
+        "name": "perbyte",
+        "class": "fab fa-perbyte",
+        "style": "brands",
+        "search": [],
+        "unicode": "e083",
+        "label": "PerByte"
     },
     {
         "name": "percent",
@@ -13817,7 +13913,7 @@
         "class": "fab fa-pied-piper-square",
         "style": "brands",
         "search": [],
-        "unicode": "f91e",
+        "unicode": "e01e",
         "label": "Pied Piper Square Logo (Old)"
     },
     {
@@ -13968,7 +14064,7 @@
             "grounded",
             "travel"
         ],
-        "unicode": "f969",
+        "unicode": "e069",
         "label": "Plane Slash"
     },
     {
@@ -14357,7 +14453,7 @@
             "sanitizer",
             "soap"
         ],
-        "unicode": "f96a",
+        "unicode": "e06a",
         "label": "Pump Medical"
     },
     {
@@ -14373,7 +14469,7 @@
             "sanitizer",
             "soap"
         ],
-        "unicode": "f96b",
+        "unicode": "e06b",
         "label": "Pump Soap"
     },
     {
@@ -15151,6 +15247,14 @@
         "label": "Indian Rupee Sign"
     },
     {
+        "name": "rust",
+        "class": "fab fa-rust",
+        "style": "brands",
+        "search": [],
+        "unicode": "e07a",
+        "label": "Rust"
+    },
+    {
         "name": "sad-cry",
         "class": "fas fa-sad-cry",
         "style": "solid",
@@ -15610,7 +15714,7 @@
             "health",
             "protect"
         ],
-        "unicode": "f96c",
+        "unicode": "e06c",
         "label": "Shield Virus"
     },
     {
@@ -15666,7 +15770,7 @@
         "class": "fab fa-shopify",
         "style": "brands",
         "search": [],
-        "unicode": "f957",
+        "unicode": "e057",
         "label": "Shopify"
     },
     {
@@ -15856,6 +15960,20 @@
         "search": [],
         "unicode": "f215",
         "label": "SimplyBuilt"
+    },
+    {
+        "name": "sink",
+        "class": "fas fa-sink",
+        "style": "solid",
+        "search": [
+            "bathroom",
+            "covid-19",
+            "faucet",
+            "kitchen",
+            "wash"
+        ],
+        "unicode": "e06d",
+        "label": "Sink"
     },
     {
         "name": "sistrix",
@@ -16322,7 +16440,7 @@
             "hygiene",
             "wash"
         ],
-        "unicode": "f96e",
+        "unicode": "e06e",
         "label": "Soap"
     },
     {
@@ -17083,7 +17201,7 @@
             "time",
             "timer"
         ],
-        "unicode": "f96f",
+        "unicode": "e06f",
         "label": "Stopwatch 20"
     },
     {
@@ -17124,7 +17242,7 @@
             "purchase",
             "shopping"
         ],
-        "unicode": "f970",
+        "unicode": "e070",
         "label": "Alternate Store Slash"
     },
     {
@@ -17139,7 +17257,7 @@
             "purchase",
             "shopping"
         ],
-        "unicode": "f971",
+        "unicode": "e071",
         "label": "Store Slash"
     },
     {
@@ -18083,6 +18201,14 @@
         "label": "Alternate Ticket"
     },
     {
+        "name": "tiktok",
+        "class": "fab fa-tiktok",
+        "style": "brands",
+        "search": [],
+        "unicode": "e07b",
+        "label": "TikTok"
+    },
+    {
         "name": "times",
         "class": "fas fa-times",
         "style": "solid",
@@ -18273,7 +18399,7 @@
             "trouble",
             "ut oh"
         ],
-        "unicode": "f972",
+        "unicode": "e072",
         "label": "Toilet Paper Slash"
     },
     {
@@ -18402,7 +18528,7 @@
             "moving",
             "travel"
         ],
-        "unicode": "f941",
+        "unicode": "e041",
         "label": "Trailer"
     },
     {
@@ -18792,6 +18918,14 @@
         "label": "Umbrella Beach"
     },
     {
+        "name": "uncharted",
+        "class": "fab fa-uncharted",
+        "style": "brands",
+        "search": [],
+        "unicode": "e084",
+        "label": "Uncharted Software"
+    },
+    {
         "name": "underline",
         "class": "fas fa-underline",
         "style": "solid",
@@ -18849,7 +18983,7 @@
         "class": "fab fa-unity",
         "style": "brands",
         "search": [],
-        "unicode": "f949",
+        "unicode": "e049",
         "label": "Unity 3D"
     },
     {
@@ -18920,6 +19054,14 @@
         ],
         "unicode": "f13e",
         "label": "Alternate Unlock"
+    },
+    {
+        "name": "unsplash",
+        "class": "fab fa-unsplash",
+        "style": "brands",
+        "search": [],
+        "unicode": "e07c",
+        "label": "Unsplash"
     },
     {
         "name": "untappd",
@@ -19374,6 +19516,24 @@
         "label": "Users Cog"
     },
     {
+        "name": "users-slash",
+        "class": "fas fa-users-slash",
+        "style": "solid",
+        "search": [
+            "disband",
+            "friends",
+            "group",
+            "people",
+            "persons",
+            "profiles",
+            "separate",
+            "team",
+            "ungroup"
+        ],
+        "unicode": "e073",
+        "label": "Users Slash"
+    },
+    {
         "name": "usps",
         "class": "fab fa-usps",
         "style": "brands",
@@ -19476,6 +19636,30 @@
         ],
         "unicode": "f228",
         "label": "Venus Mars"
+    },
+    {
+        "name": "vest",
+        "class": "fas fa-vest",
+        "style": "solid",
+        "search": [
+            "biker",
+            "fashion",
+            "style"
+        ],
+        "unicode": "e085",
+        "label": "vest"
+    },
+    {
+        "name": "vest-patches",
+        "class": "fas fa-vest-patches",
+        "style": "solid",
+        "search": [
+            "biker",
+            "fashion",
+            "style"
+        ],
+        "unicode": "e086",
+        "label": "vest-patches"
     },
     {
         "name": "viacoin",
@@ -19628,7 +19812,7 @@
             "sick",
             "viral"
         ],
-        "unicode": "f974",
+        "unicode": "e074",
         "label": "Virus"
     },
     {
@@ -19645,7 +19829,7 @@
             "sick",
             "viral"
         ],
-        "unicode": "f975",
+        "unicode": "e075",
         "label": "Virus Slash"
     },
     {
@@ -19662,7 +19846,7 @@
             "spread",
             "viral"
         ],
-        "unicode": "f976",
+        "unicode": "e076",
         "label": "Viruses"
     },
     {
@@ -19843,6 +20027,14 @@
         ],
         "unicode": "f494",
         "label": "Warehouse"
+    },
+    {
+        "name": "watchman-monitoring",
+        "class": "fab fa-watchman-monitoring",
+        "style": "brands",
+        "search": [],
+        "unicode": "e087",
+        "label": "Watchman Monitoring"
     },
     {
         "name": "water",
@@ -20187,6 +20379,14 @@
         ],
         "unicode": "f730",
         "label": "Wizards of the Coast"
+    },
+    {
+        "name": "wodu",
+        "class": "fab fa-wodu",
+        "style": "brands",
+        "search": [],
+        "unicode": "e088",
+        "label": "Wodu"
     },
     {
         "name": "wolf-pack-battalion",
